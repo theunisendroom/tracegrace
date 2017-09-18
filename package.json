@@ -1,0 +1,19 @@
+{
+  "name": "gracetrace",
+  "version": "1.0.0",
+  "description": "Trace the grace",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "keywords": [
+    "grace",
+    "maps"
+  ],
+  "author": "Theuns van der Merwe",
+  "license": "ISC"
+}
